@@ -21,3 +21,13 @@ Codalab competition: https://competitions.codalab.org/competitions/27176
 Visual Question Answering, it mixes feature extraction from images and text in order to solve a multi domain classification task.
 
 Kaggle competition: https://www.kaggle.com/competitions/anndl-2020-vqa
+
+## Developers
+### Homework 1, 2
+- [Federico Innocente](https://github.com/InnocenteFederico)
+- [Francesco Masciulli](https://github.com/FraqMasq)
+### Homework 3
+- [Federico Innocente](https://github.com/InnocenteFederico)
+- [Francesco Masciulli](https://github.com/FraqMasq)
+- [Federico Morreale](https://github.com/fedy97)
+- [Evandro Maddes](https://github.com/EvandroMaddes)
