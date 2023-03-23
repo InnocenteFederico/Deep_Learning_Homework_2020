@@ -8,7 +8,7 @@ Computer engineering project made for the course: "Artificial Neural Networks an
 
 Image classification with Convolutional Neural Networks.
 
-Kaggle competition: www.kaggle.com/...
+Kaggle competition: https://www.kaggle.com/competitions/artificial-neural-networks-and-deep-learning-2020
 
 ## Homework 2: Image Segmentation
 
